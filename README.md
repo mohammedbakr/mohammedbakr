@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **bakr.engineer@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_uJTm4GFi9R9V0WFPHSAa3eUYfSVqzJu/view?usp=sharing](https://drive.google.com/file/d/1_uJTm4GFi9R9V0WFPHSAa3eUYfSVqzJu/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohammedbakrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammedbakrr" height="30" width="40" /></a>
